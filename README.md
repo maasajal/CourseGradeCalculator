@@ -1,4 +1,4 @@
-# programming-cpp
+# Course Grade
 #include <iostream> 
 #include <string> 
 #include <cmath> 
